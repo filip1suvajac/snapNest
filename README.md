@@ -36,3 +36,15 @@ React Native projekt za vajo na faksu, samo da sem se malo preveč vživel.
 - Expo SDK 54
 - Supabase
 
+## Screenshoti
+
+<p>
+  <img src="./assets/screenshots/login.png" alt="Login" width="230" />
+  <img src="./assets/screenshots/home.png" alt="Home" width="230" />
+  <img src="./assets/screenshots/create.png" alt="Create post" width="230" />
+</p>
+
+<p>
+  <img src="./assets/screenshots/slap.png" alt="Slap" width="230" />
+  <img src="./assets/screenshots/profile.png" alt="Profil" width="230" />
+</p>
