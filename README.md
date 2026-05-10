@@ -39,12 +39,12 @@ React Native projekt za vajo na faksu, samo da sem se malo preveč vživel.
 ## Screenshoti
 
 <p>
-  <img src="./assets/screenshots/login.png" alt="Login" width="230" />
-  <img src="./assets/screenshots/home.png" alt="Home" width="230" />
-  <img src="./assets/screenshots/create.png" alt="Create post" width="230" />
+  <img src="./assets/login.png" alt="Login" width="230" />
+  <img src="./assets/home.png" alt="Home" width="230" />
+  <img src="./assets/create.png" alt="Create post" width="230" />
 </p>
 
 <p>
-  <img src="./assets/screenshots/slap.png" alt="Slap" width="230" />
-  <img src="./assets/screenshots/profile.png" alt="Profil" width="230" />
+  <img src="./assets/slap.png" alt="Slap" width="230" />
+  <img src="./assets/profile.png" alt="Profil" width="230" />
 </p>
